@@ -132,6 +132,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+--root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
@@ -141,7 +142,6 @@ Library: lib_burst_generated
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
---root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
 --assembly-folder=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -283,6 +283,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+--root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
@@ -292,7 +293,6 @@ Library: lib_burst_generated
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
---root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
 --assembly-folder=C:\Iv\Unity\BOD\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
